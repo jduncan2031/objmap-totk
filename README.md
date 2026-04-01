@@ -1,4 +1,11 @@
 # totk-objmap
+
+I also added a file so you can run this project in a codespace. All you need to do is go into the terminal and input the command 
+
+npm run serve
+
+then click on open in browser, and you will be able to run the map on your device, no extensions needed!
+
 _Tears of the Kingdom_ object map.
 
 ## Features
